@@ -12,7 +12,7 @@ They are primarily in **Polish** and tailored to **Polish ISPs and mobile operat
 
 ## 📸 Preview
 
-| ![](img/prev.jpg) |
+| ![](img/prev.png) |
 
 ## 🧪 Tested on
 - Bruce  
@@ -24,4 +24,4 @@ These materials are provided for **educational and security testing purposes onl
 Use them only on systems you own or have explicit permission to test. I take no responsibility for misuse.
 
 ---
-✍️ Author: [D3h420](https://github.com/D3h420), LAB
+✍️ Author: [D3h420](https://github.com/D3h420) /LAB/
