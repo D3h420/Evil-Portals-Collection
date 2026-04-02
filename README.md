@@ -15,8 +15,8 @@ They are primarily in **Polish** and tailored to **Polish ISPs and mobile operat
 | ![](img/prev.png) |
 
 ## 🧪 Tested on
-- Bruce  
-- Marauder  
+- all LAB5 devices - MonsterC5 / LabC5
+- Marauders && clones  
 - Flipper Zero applications
 
 ## ⚠️ Disclaimer
