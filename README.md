@@ -10,10 +10,6 @@ They are primarily in **Polish** and tailored to **Polish ISPs and mobile operat
 - Lightweight and easy to customize  
 - Any images included in the code are embedded and stored in **base64** format
 
-## 📸 Preview
-
-| ![](img/prev.png) |
-
 ## 🧪 Tested on
 - all LAB5 devices - MonsterC5 / LabC5
 - Marauders && clones  
